@@ -2,5 +2,6 @@
     "cSpell.words": [
         "fiemware",
         "rhagen"
-    ]
+    ],
+    "objectscript.showExplorer": false
 }
