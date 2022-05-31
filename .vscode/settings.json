@@ -3,5 +3,13 @@
         "fiemware",
         "rhagen"
     ],
-    "objectscript.showExplorer": false
+    "objectscript.showExplorer": false,
+    "cSpell.customDictionaries": {
+        "custom-dictionary-workspace": {
+            "name": "custom-dictionary-workspace",
+            "path": "${workspaceFolder:rhagen325}/.cspell/custom-dictionary-workspace.txt",
+            "addWords": true,
+            "scope": "workspace"
+        }
+    }
 }
